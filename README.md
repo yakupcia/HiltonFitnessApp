@@ -2,15 +2,15 @@
 
 **Welcome**
 
-<img src="fotos/Welcome.png" >
+<img src="fotos/Welcome.png"  width="250">
 
 **MemberSign**
 
-<img src="fotos/MemberSign.png" >
+<img src="fotos/MemberSign.png" width="250">
 
 **MemberResult**
 
-<img src="fotos/MemberResult.png" >
+<img src="fotos/MemberResult.png" width="250">
 
 
 
